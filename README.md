@@ -9,3 +9,6 @@
 ![Static Badge](https://img.shields.io/badge/PHPLARAVEL-per?style=for-the-badge&logo=laravel&logoColor=FF0000&logoSize=auto&labelColor=black&color=FF0000)
 ![Static Badge](https://img.shields.io/badge/DJANGO-per?style=for-the-badge&logo=django&logoColor=2BE81C&logoSize=auto&labelColor=black&color=2BE81C)
 ![Static Badge](https://img.shields.io/badge/AVALONIAUI-per?style=for-the-badge&logo=avaloniaui&logoColor=009DFF&logoSize=auto&labelColor=black&color=009DFF)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Actro25&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact)
