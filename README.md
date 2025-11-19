@@ -11,4 +11,4 @@
 ![Static Badge](https://img.shields.io/badge/AVALONIAUI-per?style=for-the-badge&logo=avaloniaui&logoColor=009DFF&logoSize=auto&labelColor=black&color=009DFF)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Actro25&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Actro25&exclude_repo=[github-readme-stats](https://github.com/Actro25/PHP_Laravel_Project),[anuraghazra.github.io](https://github.com/Actro25/MusicSite),https://github.com/Actro25/Novel&layout=compact)
