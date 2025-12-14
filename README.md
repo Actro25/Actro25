@@ -10,3 +10,4 @@
 ![Static Badge](https://img.shields.io/badge/DJANGO-per?style=for-the-badge&logo=django&logoColor=2BE81C&logoSize=auto&labelColor=black&color=2BE81C)
 ![Static Badge](https://img.shields.io/badge/AVALONIAUI-per?style=for-the-badge&logo=avaloniaui&logoColor=009DFF&logoSize=auto&labelColor=black&color=009DFF)
 
+<img src="night-view-victoria-harbor-hong-kong.jpg" width="200"/>
