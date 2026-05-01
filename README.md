@@ -1,10 +1,3 @@
 ## Hi there 👋
-
-![Static Badge](https://img.shields.io/badge/ASP.NET-per?style=for-the-badge&logo=dotnet&logoColor=D400FF&logoSize=auto&labelColor=black&color=D400FF)
-![Static Badge](https://img.shields.io/badge/MYSQL-per?style=for-the-badge&logo=mysql&logoColor=0FDAFF&logoSize=auto&labelColor=black&color=0FDAFF)
-![Static Badge](https://img.shields.io/badge/CSS-per?style=for-the-badge&logo=css&logoColor=00FFB7&logoSize=auto&labelColor=black&color=00FFB7)
-![Static Badge](https://img.shields.io/badge/SIGNALR-per?style=for-the-badge&logo=signal&logoColor=B7FF00&logoSize=auto&labelColor=black&color=B7FF00)
-
-![Static Badge](https://img.shields.io/badge/AVALONIAUI-per?style=for-the-badge&logo=avaloniaui&logoColor=009DFF&logoSize=auto&labelColor=black&color=009DFF)
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge&logo=nuget&logoColor=white)
 <img src="night-view-victoria-harbor-hong-kong.jpg" width="1000"/>
